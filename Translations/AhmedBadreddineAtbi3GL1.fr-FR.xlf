@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-FR" original="AhmedBadreddineAtbi3GL1">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3011597373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand</source>
+          <target>Marque</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Brand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3011597373 - Field 1741728871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Description</source>
+          <target>N. Marque</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Brand - Field Brand Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3011597373 - Field 3833700230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand No</source>
+          <target>Nom marque</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Brand - Field Brand No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3011597373 - Field 3700532952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Origin Country</source>
+          <target>Pays Origine</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Brand - Field Origin Country - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2637844426 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver</source>
+          <target>Chauffeur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Driver - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2637844426 - Field 1908536694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver no</source>
+          <target>No Chauffeur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Driver - Field Adress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2637844426 - Field 2711857065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver no</source>
+          <target>No Chauffeur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Driver - Field Driver No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2637844426 - Field 1285973296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target>E-mail</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Driver - Field Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2637844426 - Field 3444679095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Name</source>
+          <target>Nom</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Driver - Field First Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2637844426 - Field 4068742839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Name</source>
+          <target>Prenom</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Driver - Field Last Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2637844426 - Field 646935216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone</source>
+          <target>Telephone</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Driver - Field Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1695122201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model</source>
+          <target>Model</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1695122201 - Field 1741728871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Description</source>
+          <target>Nom marque</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Model - Field Brand Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1695122201 - Field 3833700230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand No</source>
+          <target>N Marque</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Model - Field Brand No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1695122201 - Field 3487205323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model Description</source>
+          <target>Nom model</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Model - Field Model Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1695122201 - Field 4234608834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model No</source>
+          <target>N model</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Model - Field Model No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3108107879 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation</source>
+          <target>Operation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Operation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3108107879 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Operation - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3108107879 - Field 3423811092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation Code</source>
+          <target>Code opreation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Operation - Field Operation Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2068121341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Site</source>
+          <target>Site</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Site - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2068121341 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Site - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2068121341 - Field 1911820358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Site No</source>
+          <target>N site</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Site - Field Site No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476290935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vehicule</source>
+          <target>Vehicule</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476290935 - Field 1741728871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Description</source>
+          <target>Nom marque</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule - Field Brand Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476290935 - Field 3833700230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand No</source>
+          <target>N modele</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule - Field Brand No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476290935 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476290935 - Field 3487205323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model Description</source>
+          <target>Nom modele</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule - Field Model Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476290935 - Field 4234608834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model No</source>
+          <target>N modele</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule - Field Model No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476290935 - Field 1621438101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nbre of Cylinders</source>
+          <target>Nbre cylindres</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule - Field Nbre of Cylinders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476290935 - Field 751693465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nbre of Doors</source>
+          <target>Nbre portes</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule - Field Nbre of Doors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476290935 - Field 1278064892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration No</source>
+          <target>N immatriculation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule - Field Registration No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3476290935 - Field 392564098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trunk Volume</source>
+          <target>Volume coffre</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule - Field Trunk Volume - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vehicule Entries</source>
+          <target>Liste Vehicule utilise</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 3237740465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Arrival Date</source>
+          <target>Date arrivee</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field Arrival Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 646732351 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Arrival Mileage</source>
+          <target>Kilometrage arrivee</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field Arrival Mileage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 4047495676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Arrival Site</source>
+          <target>Site arrivee</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field Arrival Site - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 1521402580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Date</source>
+          <target>Date depart</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field Departure Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 1150281326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Mileage</source>
+          <target>Kilometrage depart</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field Departure Mileage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 2936613385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Site</source>
+          <target>Site depart</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field Departure Site - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 2711857065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver No</source>
+          <target>No Chauffeur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field Driver No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 3444679095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Name</source>
+          <target>Nom</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field First Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 341703711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Immatrication No</source>
+          <target>No Immatriculation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field Immatricuation No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 4068742839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Name</source>
+          <target>Prenom</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field Last Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 3423811092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation Code</source>
+          <target>Code operation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field Operation Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 721643057 - Field 2512478805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Traveled Kilometer</source>
+          <target>Kilometrage parcouru</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Vehicule Entries - Field Traveled Kilometer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2650159571 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand List</source>
+          <target>Liste marque</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Brand List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 716053224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver List</source>
+          <target>Liste chauffeur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Driver List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1332528399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model List</source>
+          <target>Liste modele</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Model List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1799751089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation List</source>
+          <target>Liste opration</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Operation List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3462699923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Site List</source>
+          <target>Liste site</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Site List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 96988723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vehicule Card</source>
+          <target>Carte Vehichule</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vehicule Entries List</source>
+          <target>Liste historique vehicule</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 3237740465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Arrival Date</source>
+          <target>Date arrivee</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control Arrival Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 646732351 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Arrival Mileage</source>
+          <target>Kilometrage arrivee</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control Arrival Mileage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 4047495676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Arival site</source>
+          <target>Site arrivee</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control Arrival Site - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 1521402580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Date</source>
+          <<target>Date depart</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control Departure Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 1150281326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Mileage</source>
+          <target>Kilometrage depart</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control Departure Mileage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 2936613385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departure Site</source>
+          <target>Site depart</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control Departure Site - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 2711857065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Driver No</source>
+          <target>No chauffeur</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control Driver No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 3444679095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Name</source>
+          <target>Nom</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control First Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 341703711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Immatriculation No</source>
+          <target>No immatriculation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control Immatricuation No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 4068742839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Name</source>
+          <target>Prenom</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control Last Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 3423811092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation Code</source>
+         <target>Code operation</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control Operation Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2407980775 - Control 2512478805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kilometer Traveled</source>
+          <target>Kilometrage parcouru</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule Entries List - Control Traveled Kilometer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3208714305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vehichule List</source>
+          <target>Liste Vehichule</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Vehicule List - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
